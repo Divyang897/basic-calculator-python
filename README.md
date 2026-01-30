@@ -1,12 +1,23 @@
-Basic Calculator Application
+# Basic Calculator Application
 
-Language: Python
+This is a simple Python-based calculator application developed as part of the
+Software Development Internship at Lagima InfoTech.
 
-Features:
+## Features
 - Addition
 - Subtraction
 - Multiplication
 - Division
-- Error handling
+- Handles invalid input and division by zero
 
-Internship Project – Lagima InfoTech
+## Technology Used
+- Python
+
+## How to Run
+python calculator.py
+
+## Internship Project
+Domain: Software Development  
+Company: Lagima InfoTech
+
+Developed by: Divyang Mistry
