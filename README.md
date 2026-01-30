@@ -1,20 +1,18 @@
-# Basic Calculator Application
+# Student Marks Calculator
 
-This is a simple Python-based calculator application developed as part of the
-Software Development Internship at Lagima InfoTech.
+This program calculates total marks, percentage, and grade for a student
+based on marks entered for multiple subjects.
 
 ## Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Handles invalid input and division by zero
+- Input marks for multiple subjects
+- Calculates total and percentage
+- Assigns grade based on conditions
 
 ## Technology Used
 - Python
 
 ## How to Run
-python calculator.py
+python student_marks.py
 
 ## Internship Project
 Domain: Software Development  
